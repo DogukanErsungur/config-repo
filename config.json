@@ -1,0 +1,5 @@
+{
+  "apiUrl": "https://example.com/api/data",
+  "theme": "dark",
+  "maxResults": 10
+}
